@@ -1,0 +1,9 @@
+form {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  input.ng-invalid.ng-touched {
+    border-color: red;
+  }
+  
